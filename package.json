@@ -1,0 +1,25 @@
+{
+  "name": "xiaoai",
+  "version": "0.0.1",
+  "description": "xiaoai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/xiaoai.git"
+  },
+  "keywords": [],
+  "author": "lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/xiaoai/issues"
+  },
+  "homepage": "https://github.com/song940/xiaoai#readme",
+  "dependencies": {
+    "kelp": "^2.0.1",
+    "kelp-body": "^1.4.2",
+    "kelp-send": "^1.0.4"
+  }
+}
